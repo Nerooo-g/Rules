@@ -7,7 +7,7 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net,bilibili
 DOMAIN-SUFFIX,acgvideo.com,bilibili
 DOMAIN-SUFFIX,bilibili.com,bilibili
 DOMAIN-SUFFIX,bilibili.tv,bilibili
-IP-CIDR,45.43.32.23432,bilibili
+IP-CIDR,45.43.32.234/32,bilibili
 IP-CIDR,119.29.29.2932,bilibili
 IP-CIDR,128.1.62.20032,bilibili
 IP-CIDR,128.1.62.20132,bilibili
