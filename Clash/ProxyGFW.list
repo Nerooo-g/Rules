@@ -5984,7 +5984,6 @@ DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
-DOMAIN-SUFFIX,stackoverflow.com
 
 # Discord
 DOMAIN-SUFFIX,discord.co
