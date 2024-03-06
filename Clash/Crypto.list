@@ -12,10 +12,16 @@ DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,saasexch.io
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,coinall.ltd
 DOMAIN-SUFFIX,bitgetapp.com
 DOMAIN-SUFFIX,bjxnyj.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitget.fit
 DOMAIN-SUFFIX,bitget.site
-DOMAIN-SUFFIX,bitget.online
+DOMAIN-SUFFIX,bitget.online,
+DOMAIN-SUFFIX,bgportable.com
+DOMAIN-SUFFIX,d14x4.com
 DOMAIN-SUFFIX,gm816.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-KEYWORD,bitget
+DOMAIN-KEYWORD,binance
