@@ -661,7 +661,3 @@ vsmarketplacebadge.apphb.com
 +.sharepoint.com
 +.sharepointonline.com
 +.spoprod-a.akamaihd.net
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
