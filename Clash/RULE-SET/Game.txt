@@ -26,3 +26,5 @@ steamuserimages-a.akamaihd.net
 +.helpshift.com
 +.paragon.com
 +.unrealengine.com
++.brawlstars.com
++.brawlstarsgame.com
